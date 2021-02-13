@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "foobar",
 	"description": "A project that does omething awesome",
-	"keywords": [ "learning code", "freecodeCamp", "json" ],
+	"keywords": [ "learning code", "freecodecamp", "json" ],
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
